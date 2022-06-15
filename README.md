@@ -41,3 +41,7 @@ Please see user guide for full information and walkthrough.
 Special thanks to: https://github.com/bradtraversy/react_step_form
 
 **LIVE NOW:** https://rymrdp.github.io/resu-me/
+
+COLLABORATION BY:
+Reymar Dela Paz: @rymrdp
+Anne Catherine Vergel de Dios @LetsGo12300
