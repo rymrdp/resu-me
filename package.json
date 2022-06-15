@@ -1,0 +1,68 @@
+{
+  "name": "resu-me",
+  "version": "0.1.0",
+  "homepage": "https://rymrdp.github.io/resu-me",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/material": "^5.8.2",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "@pdftron/webviewer": "^8.5.0",
+    "@progress/kendo-drawing": "^1.16.3",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-react-buttons": "^5.3.0",
+    "@progress/kendo-react-charts": "^5.3.0",
+    "@progress/kendo-react-dropdowns": "^5.3.0",
+    "@progress/kendo-react-intl": "^5.3.0",
+    "@progress/kendo-react-pdf": "^5.3.0",
+    "@progress/kendo-theme-material": "^5.4.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "file-saver": "^2.0.5",
+    "hammerjs": "^2.0.8",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^5.3.5",
+    "usehooks-ts": "^2.5.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "react-to-pdf": "^0.0.14"
+  }
+}
