@@ -16,6 +16,7 @@ JavaScript, ReactJS with Material UI, HTML, CSS
 
 
 **Who are the users?**
+
 a.	User – the main user is welcomed by the home screen in which he or she can click a button that will start the resume-building process.
 
 
