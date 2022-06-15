@@ -38,12 +38,16 @@ a.	User – the main user is welcomed by the home screen in which he or she can 
 
 Please see user guide for full information and walkthrough.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sEbHH6h9qo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Special thanks to: https://github.com/bradtraversy/react_step_form
 
-**LIVE NOW:** https://rymrdp.github.io/resu-me/
+
 
 COLLABORATION BY:
 
 Reymar Dela Paz: @rymrdp
 
 Anne Catherine Vergel de Dios: @LetsGo12300
+
+**LIVE NOW:** https://rymrdp.github.io/resu-me/
